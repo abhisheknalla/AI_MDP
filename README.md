@@ -5,7 +5,7 @@ For a model of Markov Decision Process, Policy creation via two methods : Value 
 
 Model Description
 
-Model world has 4*4 block grid, one positive terminal state, one negative terminal state. Here is total description of the world.
+Model world has 4*4 block grid, one positive terminal state, one negative terminal state. ![Here](/AI MDP Assignment .pdf) is total description of the world.
 
 Value Iteration
 
